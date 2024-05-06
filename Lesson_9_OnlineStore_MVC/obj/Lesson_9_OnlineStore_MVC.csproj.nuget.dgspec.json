@@ -1,0 +1,226 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ASUS\\Downloads\\Lesson_9_OnlineStore\\Lesson_9_OnlineStore_MVC\\Lesson_9_OnlineStore_MVC.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ASUS\\Downloads\\Lesson_9_OnlineStore\\Lesson_9_OnlineStore_DataAccess\\Lesson_9_OnlineStore_DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ASUS\\Downloads\\Lesson_9_OnlineStore\\Lesson_9_OnlineStore_DataAccess\\Lesson_9_OnlineStore_DataAccess.csproj",
+        "projectName": "Lesson_9_OnlineStore_DataAccess",
+        "projectPath": "C:\\Users\\ASUS\\Downloads\\Lesson_9_OnlineStore\\Lesson_9_OnlineStore_DataAccess\\Lesson_9_OnlineStore_DataAccess.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Downloads\\Lesson_9_OnlineStore\\Lesson_9_OnlineStore_DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\ASUS\\Downloads\\Lesson_9_OnlineStore\\Lesson_9_OnlineStore_Domain\\Lesson_9_OnlineStore_Domain.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\Downloads\\Lesson_9_OnlineStore\\Lesson_9_OnlineStore_Domain\\Lesson_9_OnlineStore_Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ASUS\\Downloads\\Lesson_9_OnlineStore\\Lesson_9_OnlineStore_Domain\\Lesson_9_OnlineStore_Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ASUS\\Downloads\\Lesson_9_OnlineStore\\Lesson_9_OnlineStore_Domain\\Lesson_9_OnlineStore_Domain.csproj",
+        "projectName": "Lesson_9_OnlineStore_Domain",
+        "projectPath": "C:\\Users\\ASUS\\Downloads\\Lesson_9_OnlineStore\\Lesson_9_OnlineStore_Domain\\Lesson_9_OnlineStore_Domain.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Downloads\\Lesson_9_OnlineStore\\Lesson_9_OnlineStore_Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ASUS\\Downloads\\Lesson_9_OnlineStore\\Lesson_9_OnlineStore_MVC\\Lesson_9_OnlineStore_MVC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ASUS\\Downloads\\Lesson_9_OnlineStore\\Lesson_9_OnlineStore_MVC\\Lesson_9_OnlineStore_MVC.csproj",
+        "projectName": "Lesson_9_OnlineStore_MVC",
+        "projectPath": "C:\\Users\\ASUS\\Downloads\\Lesson_9_OnlineStore\\Lesson_9_OnlineStore_MVC\\Lesson_9_OnlineStore_MVC.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Downloads\\Lesson_9_OnlineStore\\Lesson_9_OnlineStore_MVC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\ASUS\\Downloads\\Lesson_9_OnlineStore\\Lesson_9_OnlineStore_DataAccess\\Lesson_9_OnlineStore_DataAccess.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\Downloads\\Lesson_9_OnlineStore\\Lesson_9_OnlineStore_DataAccess\\Lesson_9_OnlineStore_DataAccess.csproj"
+              },
+              "C:\\Users\\ASUS\\Downloads\\Lesson_9_OnlineStore\\Lesson_9_OnlineStore_Domain\\Lesson_9_OnlineStore_Domain.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\Downloads\\Lesson_9_OnlineStore\\Lesson_9_OnlineStore_Domain\\Lesson_9_OnlineStore_Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

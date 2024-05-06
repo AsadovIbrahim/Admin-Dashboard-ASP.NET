@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Admin\.github\codeql\codeql-config.yml" />
+    <None Include="wwwroot\Admin\.github\CONTRIBUTING.md" />
+    <None Include="wwwroot\Admin\.github\dependabot.yml" />
+    <None Include="wwwroot\Admin\.github\ISSUE_TEMPLATE\bug-report-for-adminlte-v3.1-x.md" />
+    <None Include="wwwroot\Admin\.github\ISSUE_TEMPLATE\feature-request-for-adminlte-v4-x.md" />
+    <None Include="wwwroot\Admin\.github\workflows\ci.yml" />
+    <None Include="wwwroot\Admin\.github\workflows\codeql.yml" />
+    <None Include="wwwroot\Admin\.github\workflows\docs.yml" />
+    <None Include="wwwroot\Admin\.github\workflows\lint.yml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Lesson_9_OnlineStore_DataAccess\Lesson_9_OnlineStore_DataAccess.csproj" />
+    <ProjectReference Include="..\Lesson_9_OnlineStore_Domain\Lesson_9_OnlineStore_Domain.csproj" />
+  </ItemGroup>
+
+</Project>

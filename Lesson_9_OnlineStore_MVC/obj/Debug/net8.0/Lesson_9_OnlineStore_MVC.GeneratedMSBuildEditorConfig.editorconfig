@@ -1,0 +1,87 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Lesson_9_OnlineStore_MVC
+build_property.RootNamespace = Lesson_9_OnlineStore_MVC
+build_property.ProjectDir = C:\Users\ASUS\Downloads\Lesson_9_OnlineStore\Lesson_9_OnlineStore_MVC\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ASUS\Downloads\Lesson_9_OnlineStore\Lesson_9_OnlineStore_MVC
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ASUS/Downloads/Lesson_9_OnlineStore/Lesson_9_OnlineStore_MVC/Views/Admin/Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGFzaGJvYXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Downloads/Lesson_9_OnlineStore/Lesson_9_OnlineStore_MVC/Views/Category/AddCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQWRkQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Downloads/Lesson_9_OnlineStore/Lesson_9_OnlineStore_MVC/Views/Category/AddTag.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQWRkVGFnLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Downloads/Lesson_9_OnlineStore/Lesson_9_OnlineStore_MVC/Views/Category/GetAllCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcR2V0QWxsQ2F0ZWdvcnkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Downloads/Lesson_9_OnlineStore/Lesson_9_OnlineStore_MVC/Views/Product/AddProduct.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxBZGRQcm9kdWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Downloads/Lesson_9_OnlineStore/Lesson_9_OnlineStore_MVC/Views/Product/AddProductTag.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxBZGRQcm9kdWN0VGFnLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Downloads/Lesson_9_OnlineStore/Lesson_9_OnlineStore_MVC/Views/Product/GetAllProducts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxHZXRBbGxQcm9kdWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Downloads/Lesson_9_OnlineStore/Lesson_9_OnlineStore_MVC/Views/Shared/AdminPartials/FooterPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluUGFydGlhbHNcRm9vdGVyUGFydGlhbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Downloads/Lesson_9_OnlineStore/Lesson_9_OnlineStore_MVC/Views/Shared/AdminPartials/NavbarPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluUGFydGlhbHNcTmF2YmFyUGFydGlhbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Downloads/Lesson_9_OnlineStore/Lesson_9_OnlineStore_MVC/Views/Shared/AdminPartials/PreloaderPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluUGFydGlhbHNcUHJlbG9hZGVyUGFydGlhbFZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Downloads/Lesson_9_OnlineStore/Lesson_9_OnlineStore_MVC/Views/Shared/AdminPartials/SiderbarPartialView.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEFkbWluUGFydGlhbHNcU2lkZXJiYXJQYXJ0aWFsVmlldy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Downloads/Lesson_9_OnlineStore/Lesson_9_OnlineStore_MVC/Views/Shared/Components/AdminDashboardNeworder/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQWRtaW5EYXNoYm9hcmROZXdvcmRlclxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Downloads/Lesson_9_OnlineStore/Lesson_9_OnlineStore_MVC/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Downloads/Lesson_9_OnlineStore/Lesson_9_OnlineStore_MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Downloads/Lesson_9_OnlineStore/Lesson_9_OnlineStore_MVC/Views/Tag/AddTag.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFnXEFkZFRhZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Downloads/Lesson_9_OnlineStore/Lesson_9_OnlineStore_MVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ASUS/Downloads/Lesson_9_OnlineStore/Lesson_9_OnlineStore_MVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
