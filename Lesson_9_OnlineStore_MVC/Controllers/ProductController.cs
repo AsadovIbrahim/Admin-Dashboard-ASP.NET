@@ -25,20 +25,14 @@ namespace Lesson_9_OnlineStore_MVC.Controllers
         [HttpPost]
         public async Task<IActionResult> AddProduct(Product product)
         {
-            if (!ModelState.IsValid)
+ 
+            var existingProduct = await _productRepository.GetByIdAsync(product.Id);
+            if (existingProduct == null)
             {
+                await _productRepository.AddAsync(product);
+                await _productRepository.SaveChanges();
                 return View(product);
             }
-
-            var existingProduct = await _productRepository.GetByIdAsync(product.Id);
-            if (existingProduct != null)
-            {
-                return RedirectToAction("Dashboard");
-            }
-
-            await _productRepository.AddAsync(product);
-            await _productRepository.SaveChanges();
-
             return RedirectToAction("Dashboard");
         }
 

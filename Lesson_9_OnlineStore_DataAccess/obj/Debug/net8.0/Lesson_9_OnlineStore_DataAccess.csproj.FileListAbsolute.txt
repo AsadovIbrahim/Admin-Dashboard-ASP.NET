@@ -32,3 +32,4 @@ C:\Users\ASUS\Downloads\Lesson_9_OnlineStore\Lesson_9_OnlineStore_DataAccess\obj
 C:\Users\ASUS\Downloads\Lesson_9_OnlineStore\Lesson_9_OnlineStore_DataAccess\obj\Debug\net8.0\Lesson_9_OnlineStore_DataAccess.pdb
 C:\Users\ASUS\Downloads\Lesson_9_OnlineStore\Lesson_9_OnlineStore_DataAccess\obj\Debug\net8.0\Lesson_9_OnlineStore_DataAccess.genruntimeconfig.cache
 C:\Users\ASUS\Downloads\Lesson_9_OnlineStore\Lesson_9_OnlineStore_DataAccess\obj\Debug\net8.0\ref\Lesson_9_OnlineStore_DataAccess.dll
+C:\Users\ASUS\Downloads\Lesson_9_OnlineStore\Lesson_9_OnlineStore_DataAccess\obj\Debug\net8.0\Lesson_9_OnlineStore_DataAccess.sourcelink.json

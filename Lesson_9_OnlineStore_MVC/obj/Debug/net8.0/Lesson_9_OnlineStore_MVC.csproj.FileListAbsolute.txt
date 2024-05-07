@@ -274,3 +274,4 @@ C:\Users\ASUS\Downloads\Lesson_9_OnlineStore\Lesson_9_OnlineStore_MVC\obj\Debug\
 C:\Users\ASUS\Downloads\Lesson_9_OnlineStore\Lesson_9_OnlineStore_MVC\obj\Debug\net8.0\Lesson_9_OnlineStore_MVC.pdb
 C:\Users\ASUS\Downloads\Lesson_9_OnlineStore\Lesson_9_OnlineStore_MVC\obj\Debug\net8.0\Lesson_9_OnlineStore_MVC.genruntimeconfig.cache
 C:\Users\ASUS\Downloads\Lesson_9_OnlineStore\Lesson_9_OnlineStore_MVC\obj\Debug\net8.0\ref\Lesson_9_OnlineStore_MVC.dll
+C:\Users\ASUS\Downloads\Lesson_9_OnlineStore\Lesson_9_OnlineStore_MVC\obj\Debug\net8.0\Lesson_9_OnlineStore_MVC.sourcelink.json
