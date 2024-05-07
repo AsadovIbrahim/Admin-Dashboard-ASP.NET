@@ -1,14 +1,15 @@
 ﻿@model List<Product>
-
-@foreach (var item in Model)
-{
-    <div class="card container" style="width: 18rem;">
-        <img src="@item.ImageUrl" class="card-img-top" alt="image">
-        <div class="card-body">
-            <h5 class="card-title">@item.Name</h5>
-            <p class="card-text">@item.Description</p>
-            <p class="card-text">@item.Price$</p>
+<div class="d-flex row container">
+    @foreach (var item in Model)
+    {
+        <div class="card" style="width: 18rem;">
+            <img src="@item.ImageUrl" class="card-img-top" alt="image">
+            <div class="card-body">
+                <h5 class="card-title">@item.Name</h5>
+                <p class="card-text">@item.Description</p>
+                <p class="card-text">@item.Price$</p>
+            </div>
         </div>
-    </div>
 
-}
+    }
+</div>

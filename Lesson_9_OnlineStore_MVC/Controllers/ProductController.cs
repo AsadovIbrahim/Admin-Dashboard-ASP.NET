@@ -31,9 +31,10 @@ namespace Lesson_9_OnlineStore_MVC.Controllers
             {
                 await _productRepository.AddAsync(product);
                 await _productRepository.SaveChanges();
-                return View(product);
+                return RedirectToAction("GetAllProducts");
+                
             }
-            return RedirectToAction("Dashboard");
+            return View(product);
         }
 
 

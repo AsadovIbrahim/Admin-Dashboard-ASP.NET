@@ -26,9 +26,21 @@ public class CategoryController : Controller
     [HttpPost]
     public async Task<IActionResult> AddCategory(Category category)
     {
-        await _categoryRepository.AddAsync(category);
-        await _categoryRepository.SaveChanges();
-        return View(category);
+        bool exist = false;
+        foreach (var item in await _categoryRepository.GetAllAsync())
+        {
+            if (item.Name == category.Name)
+            {
+                exist = true;
+            }
+        }
+        if (!exist)
+        {
+            await _categoryRepository.AddAsync(category);
+            await _categoryRepository.SaveChanges();
+            return RedirectToAction("GetAllCategory");
+        }
+        return View();
     }
 
 
